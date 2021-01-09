@@ -60,10 +60,10 @@ Text requirements/recommendations:
  <li>using em-dash is OK
  <li>using curly quotes is OK
  <li>no tab characters allowed
- <li>use ligatures when the source copy-text does
  <li>no spaces at end of lines
- <li>it's ok to end a line in Mr. or Mrs.; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
  <li>no extra spaces between words
+ <li>use ligatures when the source copy-text does
+ <li>it's ok to end a line in _Mr._ or _Mrs._; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
  <li> 4 empty lines: at very top (gap after PG boilerplate)
  <li> 4 empty lines: at the top of a chapter
  <li> 4 empty lines: between frontispiece and title page
@@ -83,7 +83,7 @@ HTML requirements/recommendations:
  <li>CSS 2.1 or below; CSS 3 can also be used if needed; CSS appears to be embedded, not in a separate .css file
  <li>use W3C validators for markup and CSS; use HTML Tidy; remove unused styles
  <li>use PG's ebookmaker converter to convert your book and review the result carefully (checks epub/mobi formats)
- <li>image file formats: .png and .jpg
+ <li>image file formats: .jpg (.png for vector drawings)
  <li>font: not specific, font-family only
  <li>don't use: &lt;br&gt; (except in poems?), &amp;nbsp;, or empty tags to control spacing; use CSS margin, padding
  <li>title: H1
