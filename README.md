@@ -4,6 +4,8 @@ Formatted versions of my <a href='https://johanley.github.io/anne-of-green-gable
 
 This repo was created mainly for producing items for Project Gutenberg.
 
+The transcription in this branch has a Creative Commons Zero v1.0 Universal. 
+That's <a href='https://creativecommons.org/share-your-work/public-domain/cc0'>roughly equivalent to public domain.</a>
 
 ## Inputs to Project Gutenberg
 
