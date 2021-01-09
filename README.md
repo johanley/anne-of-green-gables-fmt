@@ -9,18 +9,33 @@ This repo was created mainly for producing items for Project Gutenberg.
 
 Project Gutenberg has two main formats:
 <ul>
- <li>plain text (UTF-8), with standards on formatting
- <li>HTML (actually XHTML; used in turn to generate .epub and .mobi formats)
+ <li>a single plain text file (UTF-8, .txt extension), with standards on formatting
+ <li>an XHTML file (as .html), used in turn to generate .epub and .mobi formats. 
+ There are some general standards, but they aren't numerous.
+ They focus on identifying chapters and ensuring basic XHTML/CSS validity.
+</ul>
+
+Main links needed:
+<ul>
+ <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>DP's Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
+ <li><a href='http://www.gutenberg.org/help/volunteers_faq.html'>Short summary from PG</a> 
+ <li><a href='https://copy.pglaf.org/index.php'>PG Copyright Clearance</a> - the start of their process
+ <li><a href='https://upload.pglaf.org/index.php'>PG upload for your .zip </a> 
+ <li><a href='https://ebookmaker.pglaf.org/index.php'>PG Bookmaker tool</a> 
+ <li><a href='https://validator.w3.org/'>W3C XHTML validator</a> 
+ <li><a href='http://jigsaw.w3.org/css-validator/'>W3C CSS validator</a> 
+ <li><a href=''> </a> 
 </ul>
 
 After you submit files to PG, they will be examined closely by <b>PG whitewashers</b>, who prepare the text for final publication.
-File names are 
+File names are formatted
 
 <P><tt>like_this_or-that-01.txt</tt>
 
 <P>all in lower case.
 
-<P>When you upload, you zip together all of the formats you have, as a single zip file.
+<P>When you upload, you zip together all of the formats you have into a single zip file.
+There are validators that you can use to help you through the process.
 
 <P>Distributed Proofreaders acts as the main input into Project Gutenberg. 
 They have tons of information on what is required:
