@@ -28,7 +28,7 @@ Main links needed:
  <li><a href='https://ebookmaker.pglaf.org/index.php'>PG Bookmaker tool</a> 
  <li><a href='https://validator.w3.org/'>W3C XHTML validator</a> 
  <li><a href='http://jigsaw.w3.org/css-validator/'>W3C CSS validator</a> 
-</a> 
+</ul> 
 
 After you submit files to PG, they will be examined closely by <b>PG whitewashers</b>, who prepare the text for final publication.
 File names are formatted
