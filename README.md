@@ -48,6 +48,21 @@ They have tons of information on what is required:
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
  <li><a href='https://www.pgdp.net/wiki/PPTools/Ppgen'>ppgen</a> - their tool that generates both the plain text and HTML versions from a common source
  <li>pptext - checks the output of ppgen
+ <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines'>DP Formatting Guidelines</a>
+ <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#p_errors'>DP Errors and Misspellings</a>
+</ul>
+
+There are 3 main parts (wrapped later by PG boilerplate):
+<ul>
+ <li>front matter
+ <li>main body (38 chapters, in this case)
+  <ul>
+   <li>plain text
+   <li>poetry
+   <li>letters
+   <li>illustrations
+  </ul> 
+ <li>transcriber's notes, at the end
 </ul>
 
 Text requirements/recommendations:
@@ -63,7 +78,7 @@ Text requirements/recommendations:
  <li>no spaces at end of lines
  <li>no extra spaces between words
  <li>use ligatures when the source copy-text does
- <li>it's ok to end a line in _Mr._ or _Mrs._; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
+ <li>it's ok to end a line in <em>Mr.</em or <em>Mrs.</em>; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
  <li> 4 empty lines: at very top (gap after PG boilerplate)
  <li> 4 empty lines: at the top of a chapter
  <li> 4 empty lines: between frontispiece and title page
@@ -72,8 +87,11 @@ Text requirements/recommendations:
  <li> transcriber's note at the end; this helps to flag items to PG whitewashers
  <li> poetry: indent by 1-4 spaces, so that line wrapping by tools is turned off
  <li> blockquotes: treat as poetry
- <li> letters/correspondence?
+ <li> letters/correspondence? those are trickiest items
+ <li> front matter: there seems to be some freedom there, as long as its reasonable
 </ul>
+
+
 
 HTML requirements/recommendations:
 <ul>
