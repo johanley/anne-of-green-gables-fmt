@@ -19,7 +19,7 @@ Project Gutenberg has two main formats:
 
 <a href='https://www.gutenberg.org/'>Project Gutenberg</a> (PG) works pretty closely with <a href='https://www.pgdp.net/c/'>Distributed Proofreaders</a> (DP). 
 DP has a lot of good documentation about the required formats and standards (links below).
-The general idea is to follow their recommendations, and to use validators before submitting your files.
+The general idea is to follow their recommendations, and to use validators before submitting files to PG.
 
 Main links needed:
 <ul>
@@ -62,6 +62,7 @@ Text requirements/recommendations:
  <li>no tab characters allowed
  <li>use ligatures when the source copy-text does
  <li>no spaces at end of lines
+ <li>it's ok to end a line in Mr. or Mrs.; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
  <li>no extra spaces between words
  <li> 4 empty lines: at very top (gap after PG boilerplate)
  <li> 4 empty lines: at the top of a chapter
