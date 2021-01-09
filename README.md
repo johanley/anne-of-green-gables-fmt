@@ -15,6 +15,10 @@ Project Gutenberg has two main formats:
  They focus on identifying chapters and ensuring basic XHTML/CSS validity.
 </ul>
 
+<a href='https://www.gutenberg.org/'>Project Gutenberg</a> (PG) works pretty closely with <a href='https://www.pgdp.net/c/'>Distributed Proofreaders</a> (DP). 
+DP has a lot of good documentation about the required formats and standards (links below).
+The general idea is to follow their recommendations, and to use validators before submitting your files.
+
 Main links needed:
 <ul>
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>DP's Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
@@ -24,8 +28,7 @@ Main links needed:
  <li><a href='https://ebookmaker.pglaf.org/index.php'>PG Bookmaker tool</a> 
  <li><a href='https://validator.w3.org/'>W3C XHTML validator</a> 
  <li><a href='http://jigsaw.w3.org/css-validator/'>W3C CSS validator</a> 
- <li><a href=''> </a> 
-</ul>
+</a> 
 
 After you submit files to PG, they will be examined closely by <b>PG whitewashers</b>, who prepare the text for final publication.
 File names are formatted
