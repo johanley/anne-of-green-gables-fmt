@@ -4,7 +4,7 @@ Formatted versions of my <a href='https://johanley.github.io/anne-of-green-gable
 
 This repo was created mainly for producing items for Project Gutenberg.
 
-The transcription in this branch has a Creative Commons Zero v1.0 Universal. 
+This repo has a Creative Commons Zero v1.0 Universal license.
 That's <a href='https://creativecommons.org/share-your-work/public-domain/cc0'>roughly equivalent to public domain.</a>
 
 ## Inputs to Project Gutenberg
@@ -21,7 +21,7 @@ Project Gutenberg has two main formats:
 DP has a lot of good documentation about the required formats and standards (links below).
 The general idea is to follow their recommendations, and to use validators before submitting files to PG.
 
-Main links needed:
+## Main links
 <ul>
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>DP's Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
  <li><a href='http://www.gutenberg.org/help/volunteers_faq.html'>Short summary from PG</a> 
@@ -65,6 +65,8 @@ There are 3 main parts (wrapped later by PG boilerplate):
  <li>transcriber's notes, at the end
 </ul>
 
+## Process
+
 <P>Currently, my process is only semi-automated:
 <ul>
  <li>make a branch called <em>1908-LCP-4th-pg</em> off of uncorrected branch, to hold the desired text
@@ -77,7 +79,8 @@ There are 3 main parts (wrapped later by PG boilerplate):
 </ul>
 
 
-Text requirements/recommendations:
+## Text requirements/recommendations
+
 <ul>
  <li>UTF-8 encoding, .txt extension
  <li>end of line is CR-LF (Windows style)
@@ -110,7 +113,7 @@ Text requirements/recommendations:
 <P>In my case, most items are auto-generated. Poetry and letters are two items 
 that are handled manually, by editing the generated output. 
 
-HTML requirements/recommendations:
+## HTML requirements/recommendations
 <ul>
  <li>UTF-8 encoding
  <li>XHTML 1.0 Strict or 1.1 (epub uses XHTML)
