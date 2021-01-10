@@ -78,7 +78,8 @@ Text requirements/recommendations:
  <li>no spaces at end of lines
  <li>no extra spaces between words
  <li>use ligatures when the source copy-text does
- <li>it's ok to end a line in <em>Mr.</em or <em>Mrs.</em>; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
+ <li>match the copy-text closely, including errors; they can be noted in the transcriber's notes
+ <li>it's ok to end a line in <em>Mr.</em> or <em>Mrs.</em>; no need for a non-breaking space - <a href='http://www.gutenberg.org/files/64216/64216-0.txt'>example</a>
  <li> 4 empty lines: at very top (gap after PG boilerplate)
  <li> 4 empty lines: at the top of a chapter
  <li> 4 empty lines: between frontispiece and title page
@@ -88,10 +89,14 @@ Text requirements/recommendations:
  <li> poetry: indent by 1-4 spaces, so that line wrapping by tools is turned off
  <li> blockquotes: treat as poetry
  <li> letters/correspondence? those are trickiest items
- <li> front matter: there seems to be some freedom there, as long as its reasonable
+ <li> front matter: seems to be some freedom there, as long as it's reasonable
 </ul>
 
+<P>Line-width/line-wrapping is a bit tricky. Be careful with that.
+(Java has a BreakIterator class, but it's a bit quirky in its behaviour.)
 
+<P>In my case, most items are auto-generated. Poetry and letters are two items 
+that are handled manually, by editing the generated output. 
 
 HTML requirements/recommendations:
 <ul>
