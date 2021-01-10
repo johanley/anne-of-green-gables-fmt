@@ -65,6 +65,18 @@ There are 3 main parts (wrapped later by PG boilerplate):
  <li>transcriber's notes, at the end
 </ul>
 
+<P>Currently, my process is only semi-automated:
+<ul>
+ <li>make a branch called <em>1908-LCP-4th-pg</em> off of uncorrected branch, to hold the desired text
+ <li>apply some corrections to that branch (not many!)
+ <li>create a template file to hold the title page, transcriber notes and so on
+ <li>run a script (Java, in Eclipse) to inject the bulk of the text into the template file (line wrap at 72)
+ <li>apply manual edits for formatting poetry and correspondence
+ <li>run final sanity checks (scripts) to see if I've added unwanted characters in my manual edits
+ <li>zip the result and send to PG
+</ul>
+
+
 Text requirements/recommendations:
 <ul>
  <li>UTF-8 encoding, .txt extension
