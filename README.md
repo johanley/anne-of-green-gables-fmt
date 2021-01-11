@@ -84,6 +84,28 @@ My formatting is only semi-automated:
  <li>zip the result and send it to PG
 </ul>
 
+### Poetry/Correspondence
+
+These are special places where I need to format the text manually.
+
+<P>P: poetry, L: correspondence (a letter).
+
+<P>
+<ul>
+ <li>dedication: P
+ <li>Ch 02: P little birds sang
+ <li>Ch 07: L (odd, starts as normal text) Gracious Heavenly Father
+ <li>Ch 11: P Midian
+ <li>Ch 17: 2P, 2C; when twilight drops; shorn of Brutus
+ <li>Ch 18: P nothing but death
+ <li>Ch 19: P not a sister
+ <li>Ch 24: P heart farewell (not special, inline!)
+ <li>Ch 29: P stubborn spearsmen
+ <li>Ch 31: P hills peeped
+ <li>Ch 32: C (embedded in normal text, long)
+ <li>Ch 33: P one moonbeam
+</ul>
+
 
 ### Text requirements/recommendations
 
