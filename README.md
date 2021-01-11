@@ -71,7 +71,7 @@ There are 3 main parts (wrapped later by PG boilerplate):
 
 ### Process
 
-Make a branch called <em>1908-LCP-4th-pg</em> off the uncorrected branch, to hold the desired text.
+Make a branch called <a href='https://github.com/johanley/anne-of-green-gables-editions/tree/1908-LCP-4th-pg'><em>1908-LCP-4th-pg</em></a> off the uncorrected branch, to hold the desired text.
 Apply a small number of corrections to that branch.
 
 <P>After that, the text needs to be formatted for PG.
