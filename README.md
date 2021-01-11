@@ -25,11 +25,13 @@ The general idea is to follow their recommendations, and to use validators befor
 <ul>
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>DP's Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
  <li><a href='http://www.gutenberg.org/help/volunteers_faq.html'>Short summary from PG</a> 
- <li><a href='https://copy.pglaf.org/index.php'>PG Copyright Clearance</a> - the start of their process
+ <li><a href='https://copy.pglaf.org/index.php'>PG Copyright Clearance</a> - the start of their process. They will send you a 'clearance key' when approved; you need that to upload the book to PG.
  <li><a href='https://upload.pglaf.org/index.php'>PG upload for your .zip </a> 
  <li><a href='https://ebookmaker.pglaf.org/index.php'>PG Bookmaker tool</a> 
  <li><a href='https://validator.w3.org/'>W3C XHTML validator</a> 
  <li><a href='http://jigsaw.w3.org/css-validator/'>W3C CSS validator</a> 
+ <li><a href='http://www.gutenberg.org/ebooks/61236'>Emily of New Moon</a> - an example to follow, for formatting. 
+      It likely used <a href='https://archive.org/details/emilyofnewmoon00mont_1/page/n7/mode/2up'>this copy-text</a>.
 </ul> 
 
 After you submit files to PG, they will be examined closely by <b>PG whitewashers</b>, who prepare the text for final publication.
@@ -69,7 +71,7 @@ There are 3 main parts (wrapped later by PG boilerplate):
 
 ## Process
 
-Make a branch called <em>1908-LCP-4th-pg</em> off of uncorrected branch, to hold the desired text.
+Make a branch called <em>1908-LCP-4th-pg</em> off the uncorrected branch, to hold the desired text.
 Apply a small number of corrections to that branch.
 
 <P>After that, the text needs to be formatted for PG.
@@ -79,7 +81,7 @@ My formatting is only semi-automated:
  <li>run a script (Java, in Eclipse, against the correct branch) to inject the bulk of the text into the template file (with line wrap at 72)
  <li>apply <em>manual formatting for poetry and correspondence</em>
  <li>run final sanity checks (scripts) to see if I've added unwanted characters in my manual edits (just to be sure)
- <li>zip the result and send to PG
+ <li>zip the result and send it to PG
 </ul>
 
 

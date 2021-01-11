@@ -2,17 +2,93 @@
 
 
 
-...title page...
+  ANNE OF GREEN GABLES
+        BY
+  L. M. MONTGOMERY
+  
+  
+  _Illustrated by 
+  M. A. and W. A. J. Claus_
+  
+  “The good stars met in your horoscope,
+  Made you of spirit and fire and dew.”
+                          — _Browning_.
+                          
+                          
+  _BOSTON 
+  L. C. PAGE & COMPANY
+  MDCCCCVII_
 
 
 
+  
+  _Copyright, 1908_
+  By L. C. Page & Company (Incorporated)
+  _Entered at Stationers’ Hall, London
+  All rights reserved_
+  
+  Third Impression, August, 1908
+  Fourth Impression, September, 1908
 
-TABLE OF CONTENTS
+  _COLONIAL PRESS
+  Electrotyped and Printed by C. H. Simonds & Co.
+  Boston, U.S.A._
+
+
+
+  
+  TO THE MEMORY OF 
+  MY MOTHER AND FATHER  
+
+  
+  
+
+  CONTENTS
 
 ${table-of-contents}
 ${chapters}
 
 
 
+Transcriber’s Note:
 
-... transcriber's notes...
+  The spelling and hyphenation of the original text
+  has been retained. In some cases, the spelling
+  and hyphenation of the original text are inconsistent.
+
+  In Chapter 17, there is a letter with three
+  intentional misspellings, which are retained:
+   - comune (instead of commune)
+   - busum (instead of bosom)
+   - improoving (instead of improving)
+
+  Corrections have been applied to the following
+  errors in the source copy-text:
+
+  - Table of Contents, Ch. 1 and Ch. 9
+        text: Rachael
+  changed to: Rachel
+  
+  - Chapter 1. 
+        text: “Rachel Lynde’s husband—
+  changed to: “Rachel Lynde’s husband”—
+
+  - Chapter 8.
+        text: echo lived there
+  changed to: echo lived there.
+
+  - Chapter 16.
+        text: to forget, said Anne.
+  changed to: to forget,” said Anne.
+    
+  - Chapter 20.
+        text: did she resent the license
+  changed to: did she repent the license
+  
+  - Chapter 32.
+        text: Spurgeon stayed resolutely away
+  changed to: Spurgeon stayed resolutely away.
+  
+  - Chapter 38.
+        text: told her Thomas that night.
+  changed to: told her Thomas that night,
