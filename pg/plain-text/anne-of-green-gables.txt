@@ -43,7 +43,7 @@
 
 
 
-  TABLE OF CONTENTS
+  CONTENTS
 
   I.        Mrs. Rachel Lynde Is Surprised
   II.       Matthew Cuthbert Is Surprised
@@ -126,7 +126,7 @@ She was sitting there one afternoon in early June. The sun was coming
 in at the window warm and bright; the orchard on the slope below the
 house was in a bridal flush of pinky-white bloom, hummed over by a
 myriad of bees. Thomas Lynde—a meek little man whom Avonlea people
-called “Rachel Lynde’s husband—was sowing his late turnip seed on the
+called “Rachel Lynde’s husband”—was sowing his late turnip seed on the
 hill field beyond the barn; and Matthew Cuthbert ought to have been
 sowing his on the big red brook field away over by Green Gables. Mrs.
 Rachel knew that he ought because she had heard him tell Peter Morrison
@@ -2194,7 +2194,7 @@ with Mrs. Hammond it just broke my heart to leave Katie Maurice. She
 felt it dreadfully, too, I know she did, for she was crying when she
 kissed me good-bye through the bookcase door. There was no bookcase at
 Mrs. Hammond’s. But just up the river a little way from the house there
-was a long green little valley, and the loveliest echo lived there It
+was a long green little valley, and the loveliest echo lived there. It
 echoed back every word you said, even if you didn’t talk a bit loud. So
 I imagined that it was a little girl called Violetta and we were great
 friends and I loved her almost as well as I loved Katie Maurice—not
@@ -4426,7 +4426,7 @@ likely be home before dark. You’ll have to get Matthew and Jerry their
 supper, so mind you don’t forget to put the tea to draw until you sit
 down at the table as you did last time.”
 
-“It was dreadful of me to forget, said Anne apologetically, “but that
+“It was dreadful of me to forget,” said Anne apologetically, “but that
 was the afternoon I was trying to think of a name for Violet Vale and
 it crowded other things out. Matthew was so good. He never scolded a
 bit. He put the tea down himself and said we could wait awhile as well
@@ -6058,7 +6058,7 @@ I say. I’ll cure you of imagining ghosts into places. March, now.”
 
 Anne marched. That is, she stumbled over the bridge and went shuddering
 up the horrible dim path beyond. Anne never forgot that walk. Bitterly
-did she resent the license she had given to her imagination. The
+did she repent the license she had given to her imagination. The
 goblins of her fancy lurked in every shadow about her, reaching out
 their cold, fleshless hands to grasp the terrified small girl who had
 called them into being. A white strip of birch bark blowing up from the
@@ -9354,7 +9354,8 @@ At the end of the fortnight Anne took to “haunting” the post-office
 also, in the distracted company of Jane, Ruby and Josie, opening the
 Charlottetown dailies with shaking hands and cold, sinkaway feelings as
 bad as any experienced during the Entrance week. Charlie and Gilbert
-were not above doing this too, but Moody Spurgeon stayed resolutely away
+were not above doing this too, but Moody Spurgeon stayed resolutely
+away.
 
 “I haven’t got the grit to go there and look at a paper in cold blood,”
 he told Anne. “I’m just going to wait until somebody comes and tells me
@@ -10902,7 +10903,7 @@ indulgently.
 Marilla, with a momentary return of her old crispness.
 
 But crispness was no longer Marilla’s distinguishing characteristic. As
-Mrs. Lynde told her Thomas that night.
+Mrs. Lynde told her Thomas that night,
 
 “Marilla Cuthbert has got _mellow_. That’s what.”
 
