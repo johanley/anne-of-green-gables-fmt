@@ -21,7 +21,7 @@ Project Gutenberg has two main formats:
 DP has a lot of good documentation about the required formats and standards (links below).
 The general idea is to follow their recommendations, and to use validators before submitting files to PG.
 
-## Main links
+### Main links
 <ul>
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ'>DP's Post Processing FAQ</a> - they refer to standardized formatting as post-processing (as in post proof-reading and post formatting).
  <li><a href='http://www.gutenberg.org/help/volunteers_faq.html'>Short summary from PG</a> 
@@ -54,7 +54,7 @@ They have tons of information on what is required:
  <li><a href='https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#p_errors'>DP Errors and Misspellings</a>
 </ul>
 
-## Three main parts
+### Three main parts
 
 There are 3 main parts (wrapped later by PG boilerplate):
 <ul>
@@ -69,7 +69,7 @@ There are 3 main parts (wrapped later by PG boilerplate):
  <li>transcriber's notes, at the end
 </ul>
 
-## Process
+### Process
 
 Make a branch called <em>1908-LCP-4th-pg</em> off the uncorrected branch, to hold the desired text.
 Apply a small number of corrections to that branch.
@@ -85,7 +85,7 @@ My formatting is only semi-automated:
 </ul>
 
 
-## Text requirements/recommendations
+### Text requirements/recommendations
 
 <ul>
  <li>UTF-8 encoding, .txt extension
@@ -119,7 +119,7 @@ My formatting is only semi-automated:
 <P>In my case, most items are auto-generated. Poetry and letters are two items 
 that are handled manually, by editing the generated output. 
 
-## HTML requirements/recommendations
+### HTML requirements/recommendations
 <ul>
  <li>UTF-8 encoding
  <li>XHTML 1.0 Strict or 1.1 (epub uses XHTML)
@@ -142,4 +142,3 @@ that are handled manually, by editing the generated output.
  <li>css: div.chapter, p.poem, p.letter
  <li>the text flow uses max width similar to plain text files
 </ul>
-
