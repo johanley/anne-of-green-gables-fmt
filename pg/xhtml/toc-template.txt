@@ -1,0 +1,4 @@
+<tr>
+ <td class="tdr">${roman-numeral}</td>
+ <td class="tdl smcap"><a href='#${roman-numeral}'>${chapter-title}</a></td>
+</tr>

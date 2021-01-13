@@ -53,7 +53,7 @@ ${chapters}
 Transcriber’s Note:
 
   The spelling and hyphenation of the original text
-  has been retained. In some cases, the spelling
+  have been retained. In some cases, the spelling
   and hyphenation of the original text are inconsistent.
 
   In Chapter 17, there is a letter with three
@@ -63,7 +63,7 @@ Transcriber’s Note:
    - improoving (instead of improving)
 
   Corrections have been applied to the following
-  errors in the source copy-text:
+  errors in the text:
 
   - Table of Contents, Ch. 1 and Ch. 9
         text: Rachael

@@ -1,0 +1,5 @@
+<div class="chapter">
+ <hr class="divider" />
+ <h2><a name="${roman-numeral}" id="${roman-numeral}"></a>CHAPTER ${roman-numeral}<br />
+ <span>${chapter-title}</span></h2>
+</div>
