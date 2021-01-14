@@ -4,6 +4,8 @@ Formatted versions of my <a href='https://johanley.github.io/anne-of-green-gable
 
 This repo was created mainly for producing items for Project Gutenberg.
 
+The PG (HTML) version of the transcription is <a href='https://johanley.github.io/anne-of-green-gables-fmt/anne-of-green-gables.html'>here</a>.
+
 This repo has a Creative Commons Zero v1.0 Universal license.
 That's <a href='https://creativecommons.org/share-your-work/public-domain/cc0'>roughly equivalent to public domain.</a>
 
@@ -164,3 +166,5 @@ that are handled manually, by editing the generated output.
  <li>css: div.chapter, p.poem, p.letter
  <li>the text flow uses max width similar to plain text files
 </ul>
+
+The PG (HTML) version of the transcription is deployed <a href='https://johanley.github.io/anne-of-green-gables-fmt/anne-of-green-gables.html'>here</a>.
