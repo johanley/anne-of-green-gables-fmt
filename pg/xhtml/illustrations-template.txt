@@ -1,0 +1,4 @@
+<tr>
+ <td class="tdr">${roman-numeral}</td>
+ <td class="tdl"><a href='#illustration-chap-${roman-numeral}'>${caption}</a></td>
+</tr>

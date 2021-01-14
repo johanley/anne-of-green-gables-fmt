@@ -87,7 +87,7 @@
 
       @page {margin: 2em 1%;}
 
-      @media handheld {
+      @media all and (max-width: 450px) {      
         body {margin: .5em; padding: 0; width: 98%;}
         .hidehand {display: none;}
         p {margin-top: .1em; text-align: justify; margin-bottom: .1em; text-indent: 1em;}
@@ -108,8 +108,8 @@
 
 <div class="hidehand">
  <hr class="divider2" />
- <div class="figcenter width400">
- <img src="images/cover.jpg" width="400" height="616" alt="Cover" />
+ <div class="figcenter" style="width:50%;">
+   <img src="images/cover.jpg" style="width:100%;" alt="cover" />
  </div>
 </div>
 
@@ -180,6 +180,19 @@ Boston, U.S.A.</span></em></p>
 ${table-of-contents}
 </table>
 
+<div class="section">
+ <hr class="divider" />
+ <h2><a name="contents" id="illustrations"></a>ILLUSTRATIONS</h2>
+</div>
+<table summary="Illustrations">
+ <tr>
+  <th class="tdr">CHAPTER</th>
+  <th class="tdl">&nbsp;</th>
+ </tr>
+${illustration-listing}
+</table>
+
+
 ${chapters}
 
 <div class="section">
@@ -194,14 +207,15 @@ and hyphenation of the original text are inconsistent.
 </p>
 
 <p>In Chapter 17, there is a letter with three
-intentional misspellings, which are retained:
+intentional misspellings, which are retained:</p>
 <ul>
- <li> <em>comune</em> (instead of <em>commune</em>)
- <li> <em>busum</em> (instead of <em>bosom</em>)
- <li> <em>improoving</em> (instead of <em>improving</em>)
+ <li> <em>comune</em> (instead of <em>commune</em>)</li>
+ <li> <em>busum</em> (instead of <em>bosom</em>)</li>
+ <li> <em>improoving</em> (instead of <em>improving</em>)</li>
 </ul>   
 
-<P>Corrections have been applied to the following
+
+<p>Corrections have been applied to the following
 errors in the text:</p>
 
 <ul>
@@ -209,38 +223,45 @@ errors in the text:</p>
 Table of Contents, Ch. 1 and Ch. 9<br />
 Rachael <i>changed to</i><br />
 Rachel
+</li>
 
 <li>
 Chapter 1.<br />
 “Rachel Lynde’s husband— <i>changed to</i><br />
 “Rachel Lynde’s husband”—
+</li>
 
 <li>
 Chapter 8.<br />
 echo lived there <i>changed to</i><br />
 echo lived there.
+</li>
 
 <li>
 Chapter 16.<br />
 to forget, said Anne. <i>changed to</i><br />
 to forget,” said Anne.
+</li>
 
 <li>
 Chapter 20.<br />
 did she resent the license <i>changed to</i><br />
 did she repent the license
+</li>
 
 <li>
 Chapter 32.<br />
 Spurgeon stayed resolutely away <i>changed to</i><br />
 Spurgeon stayed resolutely away.
+</li>
 
 <li>
 Chapter 38.<br />
 told her Thomas that night. <i>changed to</i><br />
 told her Thomas that night,
+</li>
 </ul>
-</div>
+ </div>
 </div>
 
 
