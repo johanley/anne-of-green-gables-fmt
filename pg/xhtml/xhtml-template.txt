@@ -182,7 +182,7 @@ ${table-of-contents}
 
 <div class="section">
  <hr class="divider" />
- <h2><a name="contents" id="illustrations"></a>ILLUSTRATIONS</h2>
+ <h2><a name="illustrations" id="illustrations"></a>ILLUSTRATIONS</h2>
 </div>
 <table summary="Illustrations">
  <tr>
