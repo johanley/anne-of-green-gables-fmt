@@ -14,11 +14,10 @@
       h2 {font-size: 1.4em; line-height: 2em;}
       h2 span {font-size: .8em; font-variant: small-caps;}
       p {margin-top: 1em; text-align: justify; margin-bottom: 1em; text-indent: 1em;}
-      blockquote {margin: 1.5em 3em;}
       .p120 {font-size: 1.2em;}
       .p180 {font-size: 1.8em;}
       .p70 {font-size: 0.7em;}
-      cite, em {font-style: italic;}
+      em {font-style: italic;}
 
       /* General */
       .noi {text-indent: 0;}
@@ -27,15 +26,8 @@
       .mt0 {margin-top: 0em;}
       .mb0 {margin-bottom: 0em;}
       .mt3 {margin-top: 3em;}
-      .center-right4 {text-align: center; padding-left: 4em;}
-      .center-right2 {text-align: center; padding-left: 2em;}
-      .center-right8 {text-align: center; padding-left: 8em;}
+      .center-right4 {text-align: center; padding-left: 4em;}      
       .right2 {text-align: right; padding-right: 2em;}
-
-      /* Drop caps */
-      .dropcap, .dropcap2 {float: left; font-weight: normal;}
-      .dropcap {font-size: 3.5em; padding: 0 .02em 0 0; line-height: 0.85em; height: 0.85em;}
-      .dropcap2 {font-size: .3em; padding: 0 .2em 0 0; line-height: 1em; height: 1em;}
 
       /* Table */
       table {margin: auto; border-collapse: collapse;}
@@ -43,21 +35,12 @@
       td {padding: .2em;}
       .tdl {text-align: left; margin-left: 1em; padding-left: 2em; text-indent: -1em;}
       .tdr {text-align: right; padding-right: 1em;}
-      .tdr2 {text-align: right; padding-left: 1em;}
 
       /* Horizontal rules */
       hr {width: 60%; margin: 2em 20%; clear: both;}
       hr.divider {width: 65%; margin: 4em 17.5%;}
       hr.divider2 {width: 45%; margin: 4em 27.5%;}
       hr.tb {width: 20%; margin: 0 40% 0 40%;}
-
-      /* Page numbers */
-      .pagenum {position: absolute; right: 2%; text-indent: 0em;
-        text-align: right; font-size: x-small;
-        font-weight: normal; font-variant: normal; font-style: normal;
-        letter-spacing: normal; line-height: normal;
-        color: #999; border-top: 1px solid; border-bottom: 1px solid;
-        background-color: inherit; padding: .01em .4em;}
 
       /* Images */
       img {max-width: 100%; width: 100%; height: auto;}
@@ -76,7 +59,6 @@
       /* Notes */
       .tn {max-width: 30em; margin: 2em auto; padding: .5em 1em;}
       .background {background: #e3e4e4;}
-      ins {text-decoration: none; border-bottom: 1px dotted #dcdcdc;}
       li {margin-bottom: .5em; list-style: square;}
 
       @media print {
@@ -87,7 +69,7 @@
 
       @page {margin: 2em 1%;}
 
-      @media all and (max-width: 450px) {
+      @media all and (max-width: 450px) {  //note that 'handheld' is now deprecated
         body {margin: .5em; padding: 0; width: 98%;}
         .hidehand {display: none;}
         p {margin-top: .1em; text-align: justify; margin-bottom: .1em; text-indent: 1em;}
@@ -96,8 +78,6 @@
         table {width: 96%; margin: 0 2%;}
         .tn {width: 80%; margin: 0 10%; background: #e3e4e4;}
         a {color: inherit; text-decoration: none;}
-        .dropcap, .dropcap2 {float: none; font-weight: normal;
-          font-size: 1em; padding: inherit; line-height: 1em; height: 1em;}
       }
    </style>
   </head>
@@ -109,7 +89,7 @@
 <div class="hidehand">
  <hr class="divider2" />
  <div class="figcenter" style="width:50%;">
-   <img src="images/cover.jpg" style="width:100%;" alt="cover" />
+   <img src="images/cover.jpg" width="1019" height="1429" alt="cover" />
  </div>
 </div>
 
@@ -163,7 +143,7 @@ Boston, U.S.A.</span></em></p>
 <div class="section">
  <hr class="divider" />
  <p class="center">TO THE MEMORY OF</p>
- <p class="center p120">My Father and Mother</p>
+ <p class="center p120">MY FATHER AND MOTHER</p>
 </div>
 
 
@@ -214,7 +194,7 @@ Boston, U.S.A.</span></em></p>
 
 <tr>
  <td class="tdr">VIII.</td>
- <td class="tdl smcap"><a href='#VIII.'>Anne’s Bringing up Is Begun</a></td>
+ <td class="tdl smcap"><a href='#VIII.'>Anne’s Bringing-up Is Begun</a></td>
 </tr>
 
 <tr>
@@ -229,7 +209,7 @@ Boston, U.S.A.</span></em></p>
 
 <tr>
  <td class="tdr">XI.</td>
- <td class="tdl smcap"><a href='#XI.'>Anne’s Impressions of Sunday school</a></td>
+ <td class="tdl smcap"><a href='#XI.'>Anne’s Impressions of Sunday-school</a></td>
 </tr>
 
 <tr>
@@ -381,42 +361,42 @@ Boston, U.S.A.</span></em></p>
  </tr>
 <tr>
  <td class="tdr">III.</td>
- <td class="tdl"><a href='#illustration-chap-III.'>“‘Matthew Cuthbert, who’s that?’ she ejaculated.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-III.'>“‘Matthew Cuthbert, who’s that?’ she ejaculated.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">IX.</td>
- <td class="tdl"><a href='#illustration-chap-IX.'>“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-IX.'>“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XI.</td>
- <td class="tdl"><a href='#illustration-chap-XI.'>“They looked at her and whispered to each other.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XI.'>“They looked at her and whispered to each other.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XV.</td>
- <td class="tdl"><a href='#illustration-chap-XV.'>“Thwack! Anne had brought her slate down on Gilbert’s head.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XV.'>“Thwack! Anne had brought her slate down on Gilbert’s head.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XXIII.</td>
- <td class="tdl"><a href='#illustration-chap-XXIII.'>“Balanced herself uprightly on that precarious footing.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XXIII.'>“Balanced herself uprightly on that precarious footing.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XXVIII.</td>
- <td class="tdl"><a href='#illustration-chap-XXVIII.'>“He pulled close to the pile and extended his hand.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XXVIII.'>“He pulled close to the pile and extended his hand.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XXXIII.</td>
- <td class="tdl"><a href='#illustration-chap-XXXIII.'>“‘There’s something so stylish about you, Anne,’ said Diana.”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XXXIII.'>“‘There’s something so stylish about you, Anne,’ said Diana.”</a></td>
 </tr>
 
 <tr>
  <td class="tdr">XXXVIII.</td>
- <td class="tdl"><a href='#illustration-chap-XXXVIII.'>“‘Come, I’m going to walk home with you.’”</a></td>
+ <td class="tdl smcap"><a href='#illustration-chap-XXXVIII.'>“‘Come, I’m going to walk home with you.’”</a></td>
 </tr>
 
 
@@ -429,7 +409,7 @@ Boston, U.S.A.</span></em></p>
 
 <div class="chapter">
  <hr class="divider" />
- <p class="center p180"><strong>ANNE OF GREEN GABLES</strong></p>
+ <p class="center p180">ANNE OF GREEN GABLES</p>
  <h2><a name="I." id="I."></a>CHAPTER I.<br />
  <span>MRS. RACHEL LYNDE IS SURPRISED</span></h2>
 </div>
@@ -732,10 +712,14 @@ their filmy bloom. The air was sweet with the breath of many apple
 orchards and the meadows sloped away in the distance to horizon mists
 of pearl and purple; while</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“The little birds sang as if it were</div>
- <div class="line">The one day of summer in all the year.”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“The little birds sang as if it were</div>
+   <div class="line">The one day of summer in all the year.”</div>
+  </div>
+ </div>
+</div>
 
 <p>Matthew enjoyed the drive after his own fashion, except during the
 moments when he met women and had to nod to them—for in Prince Edward
@@ -1225,20 +1209,20 @@ worldly goods,” she followed him into the house.</p>
 
 
 
+
 <div class="chapter">
  <hr class="divider" />
-  <div class="hidehand">
-   <a name="illustration-chap-III." id="illustration-chap-III."></a>
-   <div class="figcenter" style="width:50%;">
-     <img src="images/chap03.jpg" style="width:100%;" alt="“‘Matthew Cuthbert, who’s that?’ she ejaculated.”" />
-     <!-- <div class="caption">“‘Matthew Cuthbert, who’s that?’ she ejaculated.”</div> the caption is already in the image itself -->
-   </div>
-  </div>
  <h2><a name="III." id="III."></a>CHAPTER III.<br />
  <span>MARILLA CUTHBERT IS SURPRISED</span></h2>
 </div>
 
-
+<div class="hidehand">
+ <a name="illustration-chap-III." id="illustration-chap-III."></a>
+ <div class="figcenter" style="width:50%;">
+   <img src="images/chap03.jpg" width="533" height="769" alt="“‘Matthew Cuthbert, who’s that?’ she ejaculated.”" />
+   <div class="caption smcap">“‘Matthew Cuthbert, who’s that?’ she ejaculated.”</div>
+ </div>
+</div>
 
 <p><span class='smcap'>Marilla</span> came briskly forward as Matthew
 opened the door. But when her eyes fell on the odd little figure in the
@@ -2316,8 +2300,9 @@ take a great deal of time to name them all, so I will only mention the
 two most important. Please let me stay at Green Gables; and please let
 me be good-looking when I grow up. I remain,</p>
 
-<p class='mb0 center'>“Yours respectfully,</p> 
-<p class='mt0 center-right4 smcap'>Anne Shirley.”</p>
+<p class="mb0 center">“Yours respectfully,</p>
+
+<p class="mt0 center-right4 smcap">“Anne Shirley.</p>
 
 <p>“There, did I do it all right?” she asked eagerly, getting up. “I could
 have made it much more flowery if I’d had a little more time to think
@@ -2361,7 +2346,7 @@ has come at last and I suppose I’ll just have to make the best of it.”</p>
 <div class="chapter">
  <hr class="divider" />
  <h2><a name="VIII." id="VIII."></a>CHAPTER VIII.<br />
- <span>ANNE’S BRINGING UP IS BEGUN</span></h2>
+ <span>ANNE’S BRINGING-UP IS BEGUN</span></h2>
 </div>
 
 
@@ -2799,19 +2784,19 @@ assertion of hatred. “How dare you call me skinny and ugly? How dare
 you say I’m freckled and red-headed? You are a rude, impolite,
 unfeeling woman!”</p>
 
+<div class="hidehand">
+ <a name="illustration-chap-IX." id="illustration-chap-IX."></a>
+ <div class="figcenter" style="width:50%;">
+   <img src="images/chap09.jpg" width="543" height="775" alt="“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”" />
+   <div class="caption smcap">“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”</div>
+ </div>
+</div>
+
 <p>“Anne!” exclaimed Marilla in consternation.</p>
 
 <p>But Anne continued to face Mrs. Rachel undauntedly, head up, eyes
 blazing, hands clenched, passionate indignation exhaling from her like
 an atmosphere.</p>
-
-<div class="hidehand">
- <a name="illustration-chap-IX." id="illustration-chap-IX."></a>
- <div class="figcenter" style="width:50%;">
-   <img src="images/chap09.jpg" style="width:100%;" alt="“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”" />
-   <!-- <div class="caption">“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”</div> the caption is already in the image itself -->
- </div>
-</div>
 
 <p>“How dare you say such things about me?” she repeated vehemently. “How
 would you like to have such things said about you? How would you like
@@ -2974,6 +2959,10 @@ descended to the kitchen, grievously troubled in mind and vexed in
 soul. She was as angry with herself as with Anne, because, whenever she
 recalled Mrs. Rachel’s dumfounded countenance her lips twitched with
 amusement and she felt a most reprehensible desire to laugh.</p>
+
+
+
+
 
 
 
@@ -3272,7 +3261,7 @@ talk any more just now, Marilla.”</p>
 <div class="chapter">
  <hr class="divider" />
  <h2><a name="XI." id="XI."></a>CHAPTER XI.<br />
- <span>ANNE’S IMPRESSIONS OF SUNDAY SCHOOL</span></h2>
+ <span>ANNE’S IMPRESSIONS OF SUNDAY-SCHOOL</span></h2>
 </div>
 
 
@@ -3379,8 +3368,8 @@ Rogerson’s class.</p>
 <div class="hidehand">
  <a name="illustration-chap-XI." id="illustration-chap-XI."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap11.jpg" style="width:100%;" alt="“They looked at her and whispered to each other.”" />
-   <!-- <div class="caption">“They looked at her and whispered to each other.”</div> the caption is already in the image itself -->
+   <img src="images/chap11.jpg" width="542" height="772" alt="“They looked at her and whispered to each other.”" />
+   <div class="caption smcap">“They looked at her and whispered to each other.”</div>
  </div>
 </div>
 
@@ -3454,12 +3443,16 @@ said it wouldn’t do and she told me to learn the nineteenth paraphrase
 for next Sunday. I read it over in church afterwards and it’s splendid.
 There are two lines in particular that just thrill me.</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“‘Quick as the slaughtered squadrons fell</div>
- <div class="line">In Midian’s evil day.’</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“‘Quick as the slaughtered squadrons fell</div>
+   <div class="line">In Midian’s evil day.’</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it
+<p class="noi">“I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it
 sounds <em>so</em> tragical. I can hardly wait until next Sunday to
 recite it. I’ll practise it all the week. After Sunday-school I asked
 Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew.
@@ -3479,6 +3472,8 @@ heart for years, but had never given expression to. It almost seemed to
 her that those secret, unuttered, critical thoughts had suddenly taken
 visible and accusing shape and form in the person of this outspoken
 morsel of neglected humanity.</p>
+
+
 
 
 
@@ -4533,8 +4528,8 @@ cracked it—slate, not head—clear across.</p>
 <div class="hidehand">
  <a name="illustration-chap-XV." id="illustration-chap-XV."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap15.jpg" style="width:100%;" alt="“Thwack! Anne had brought her slate down on Gilbert’s head.”" />
-   <!-- <div class="caption">“Thwack! Anne had brought her slate down on Gilbert’s head.”</div> the caption is already in the image itself -->
+   <img src="images/chap15.jpg" width="533" height="762" alt="“Thwack! Anne had brought her slate down on Gilbert’s head.”" />
+   <div class="caption smcap">“Thwack! Anne had brought her slate down on Gilbert’s head.”</div>
  </div>
 </div>
 
@@ -5398,14 +5393,18 @@ Boulter gave her a perfume bottle to keep slate-water in and Julia Bell
 copied carefully on a piece of pale pink paper, scalloped on the edges,
 the following effusion:</p>
 
-<p>“To Anne</p>
+<p class="center">“TO ANNE</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“When twilight drops her curtain down</div>
- <div class="line">And pins it with a star</div>
- <div class="line">Remember that you have a friend</div>
- <div class="line">Though she may wander far.”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“When twilight drops her curtain down</div>
+   <div class="line">And pins it with a star</div>
+   <div class="line">Remember that you have a friend</div>
+   <div class="line">Though she may wander far.”</div>
+  </div>
+ </div>
+</div>
 
 <p>“It’s so nice to be appreciated,” sighed Anne rapturously to Marilla
 that night.</p>
@@ -5431,12 +5430,16 @@ after school to rewrite it.</p>
 
 <p>But as,</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“The Cæsar’s pageant shorn of Brutus’ bust</div>
- <div class="line">Did but of Rome’s best son remind her more,”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“The Cæsar’s pageant shorn of Brutus’ bust</div>
+   <div class="line">Did but of Rome’s best son remind her more,”</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>so the marked absence of any tribute or recognition from Diana Barry,
+<p class="noi">so the marked absence of any tribute or recognition from Diana Barry,
 who was sitting with Gertie Pye, embittered Anne’s little triumph.</p>
 
 <p>“Diana might just have smiled at me once, I think,” she mourned to
@@ -5452,13 +5455,14 @@ new bookmarkers out of red tissue paper. They are awfully fashionable
 now and only three girls in school know how to make them. When you look
 at it remember</p>
 
-<p class='mb0 center'>“Your true friend,</p>
-<p class='mt0 center-right4 smcap'>“Diana Barry.”</p>
+<p class="mb0 center">“Your true friend,</p>
+
+<p class="mt0 center-right4 smcap">“Diana Barry.”</p>
 
 <p>Anne read the note, kissed the bookmark, and despatched a prompt reply
 back to the other side of the school.</p>
 
-<p class='smcap noi'>“My own darling Diana:—</p>
+<p>“My own darling Diana:—</p>
 
 <p>“Of course I am not cross at you because you have to obey your mother.
 Our spirits can comune. I shall keep your lovely present forever.
@@ -5467,12 +5471,10 @@ imagination—but after having been Diana’s busum friend I cannot be
 Minnie’s. Please excuse mistakes because my spelling isn’t very good
 yet, although much improoved.</p>
 
-<p class='mb0 center'>“Yours until death us do part,</p>
-<p class='mt0 center-right4'>“<span class='smcap'>Anne</span> or <span class='smcap'>Cordelia Shirley.</span>”</p>
-
-<p>“P. S. I shall sleep with your letter under my pillow to-night.</p>
-
-<p class='mt0 center-right4'>“<span class='smcap'>A</span> or <span class='smcap'>C. S.</span>”</p>
+<p class="mb0 center">“Yours until death us do part,</p> 
+<p class="mt0 center-right4 smcap">“Anne or Cordelia Shirley.</p> 
+<p>“P. S. I shall sleep with your letter under my pillow to-night.</p> 
+<p class="mt0 center-right4">“<span class="smcap">A.</span> or <span class="smcap">C. S.</span>”</p>
 
 <p>Marilla pessimistically expected more trouble since Anne had again
 begun to go to school. But none developed. Perhaps Anne caught
@@ -5842,12 +5844,16 @@ her. Not a soul in Avonlea knows it but us, and we pledged a solemn vow
 never to reveal it to any one else. Diana gave me a beautiful card with
 a wreath of roses on it and a verse of poetry:</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“‘If you love me as I love you</div>
- <div class="line">Nothing but death can part us two.’</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“‘If you love me as I love you</div>
+   <div class="line">Nothing but death can part us two.’</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>And that is true, Marilla. We’re going to ask Mr. Phillips to let us
+<p class="noi">And that is true, Marilla. We’re going to ask Mr. Phillips to let us
 sit together in school again, and Gertie Pye can go with Minnie
 Andrews. We had an elegant tea. Mrs. Barry had the very best china set
 out, Marilla, just as if I was real company. I can’t tell you what a
@@ -6114,11 +6120,15 @@ recite. Gilbert Blythe does often and he’s only two years older than
 us. Oh, Anne, how could you pretend not to listen to him? When he came
 to the line,</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“‘There’s another, <em>not</em> a sister,’</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“‘There’s another, <em>not</em> a sister,’</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>he looked right down at you.”</p>
+<p class="noi">he looked right down at you.”</p>
 
 <p>“Diana,” said Anne with dignity, “you are my bosom friend, but I cannot
 allow even you to speak to me of that person. Are you ready for bed?
@@ -7217,8 +7227,8 @@ terrified shriek.</p>
 <div class="hidehand">
  <a name="illustration-chap-XXIII." id="illustration-chap-XXIII."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap23.jpg" style="width:100%;" alt="“Balanced herself uprightly on that precarious footing.”" />
-   <!-- <div class="caption">“Balanced herself uprightly on that precarious footing.”</div> the caption is already in the image itself -->
+   <img src="images/chap23.jpg" width="527" height="751" alt="“Balanced herself uprightly on that precarious footing.”" />
+   <div class="caption smcap">“Balanced herself uprightly on that precarious footing.”</div>
  </div>
 </div>
 
@@ -8657,8 +8667,8 @@ circumstances!</p>
 <div class="hidehand">
  <a name="illustration-chap-XXVIII." id="illustration-chap-XXVIII."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap28.jpg" style="width:100%;" alt="“He pulled close to the pile and extended his hand.”" />
-   <!-- <div class="caption">“He pulled close to the pile and extended his hand.”</div> the caption is already in the image itself -->
+   <img src="images/chap28.jpg" width="535" height="755" alt="“He pulled close to the pile and extended his hand.”" />
+   <div class="caption smcap">“He pulled close to the pile and extended his hand.”</div>
  </div>
 </div>
 
@@ -8804,12 +8814,16 @@ part of their English course the preceding winter and which Miss Stacy
 had made them learn off by heart—and exulting in its rushing lines and
 the clash of spears in its imagery. When she came to the lines:</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“The stubborn spearsmen still made good</div>
- <div class="line">Their dark impenetrable wood,”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“The stubborn spearsmen still made good</div>
+   <div class="line">Their dark impenetrable wood,”</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>she stopped in ecstasy to shut her eyes that she might the better fancy
+<p class="noi">she stopped in ecstasy to shut her eyes that she might the better fancy
 herself one of that heroic ring. When she opened them again it was to
 behold Diana coming through the gate that led into the Barry field and
 looking so important that Anne instantly divined there was news to be
@@ -9624,11 +9638,15 @@ interesting, class rivalry as absorbing, as of yore. New worlds of
 thought, feeling, and ambition, fresh, fascinating fields of unexplored
 knowledge seemed to be opening out before Anne’s eager eyes.</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“Hills peeped o’er hill and Alps on Alps arose.”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“Hills peeped o’er hill and Alps on Alps arose.”</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>Much of all this was due to Miss Stacy’s tactful, careful, broad-minded
+<p class="noi">Much of all this was due to Miss Stacy’s tactful, careful, broad-minded
 guidance. She led her class to think and explore and discover for
 themselves and encouraged straying from the old beaten paths to a
 degree that quite shocked Mrs. Lynde and the school trustees, who
@@ -9814,7 +9832,7 @@ promised Anne.</p>
 <p>Anne went to town the following Monday and on Wednesday Diana haunted
 the post-office, as agreed, and got her letter.</p>
 
-<p>“Dearest Diana, wrote Anne, here it is Tuesday night and I’m writing
+<p>“Dearest Diana,” wrote Anne, “here it is Tuesday night and I’m writing
 this in the library at Beechwood. Last night I was horribly lonesome
 all alone in my room and wished so much you were with me. I couldn’t
 ‘cram’ because I’d promised Miss Stacy not to, but it was as hard to
@@ -9877,8 +9895,9 @@ Mrs. Lynde would say, the sun will go on rising and setting whether I
 fail in geometry or not. That is true but not especially comforting. I
 think I’d rather it <em>didn’t</em> go on if I failed!</p>
 
-<p class='mb0 center'>“Yours devotedly,</p>
-<p class='mt0 center-right4 smcap'>“Anne.”</p>
+<p class="mb0 center">“Yours devotedly,</p>
+
+<p class="mt0 center-right4 smcap">“Anne.”</p>
 
 <p>The geometry examination and all the others were over in due time and
 Anne arrived home on Friday evening, rather tired but with an air of
@@ -10141,8 +10160,8 @@ myself to it.”</p>
 <div class="hidehand">
  <a name="illustration-chap-XXXIII." id="illustration-chap-XXXIII."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap33.jpg" style="width:100%;" alt="“‘There’s something so stylish about you, Anne,’ said Diana.”" />
-   <!-- <div class="caption">“‘There’s something so stylish about you, Anne,’ said Diana.”</div> the caption is already in the image itself -->
+   <img src="images/chap33.jpg" width="1075" height="1531" alt="“‘There’s something so stylish about you, Anne,’ said Diana.”" />
+   <div class="caption smcap">“‘There’s something so stylish about you, Anne,’ said Diana.”</div>
  </div>
 </div>
 
@@ -10173,11 +10192,15 @@ your skirt clear of the wheel, Anne, and put your warm jacket on.”</p>
 <p>Then Marilla stalked down-stairs, thinking proudly how sweet Anne
 looked, with that</p>
 
-<div class="poetry-container"><div class="poetry"><div class="verse">
- <div class="line">“One moonbeam from the forehead to the crown”</div>
-</div></div></div>
+<div class="poetry-container">
+ <div class="poetry">
+  <div class="verse">
+   <div class="line">“One moonbeam from the forehead to the crown”</div>
+  </div>
+ </div>
+</div>
 
-<p class='noi'>and regretting that she could not go to the concert herself to hear her
+<p class="noi">and regretting that she could not go to the concert herself to hear her
 girl recite.</p>
 
 <p>“I wonder if it <em>is</em> too damp for my dress,” said Anne anxiously.</p>
@@ -11583,8 +11606,8 @@ with you.”</p>
 <div class="hidehand">
  <a name="illustration-chap-XXXVIII." id="illustration-chap-XXXVIII."></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap38.jpg" style="width:100%;" alt="“‘Come, I’m going to walk home with you.’”" />
-   <!-- <div class="caption">“‘Come, I’m going to walk home with you.’”</div> the caption is already in the image itself -->
+   <img src="images/chap38.jpg" width="535" height="827" alt="“‘Come, I’m going to walk home with you.’”" />
+   <div class="caption smcap">“‘Come, I’m going to walk home with you.’”</div>
  </div>
 </div>
 
@@ -11619,7 +11642,7 @@ her ideal world of dreams. And there was always the bend in the road!</p>
 <p>“‘God’s in his heaven, all’s right with the world,’” whispered Anne
 softly.</p>
 
-<p class='center mt3'>THE END.</p>
+<p class="center mt3">THE END.</p>
 
 
 
