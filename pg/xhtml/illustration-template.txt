@@ -1,8 +1,6 @@
-<div class="hidehand">
- <a name="illustration-chap-${roman-numeral}" id="illustration-chap-${roman-numeral}"></a>
- <div class="figcenter" style="width:50%;">
-   <img src="images/chap${numeral}.jpg" width="${width}" height="${height}" alt="${caption}" />
-   <div class="caption smcap">${caption}</div> 
- </div>
+<!-- cover: place all in a div with 'hidehand' class -->
+<div  id="illustration-chap-${roman-numeral}" class="figcenter" style="width:50%;">
+  <img src="images/chap${numeral}.jpg" width="${width}" height="${height}" alt="${caption}" />
+  <div class="caption smcap">${caption}</div> 
 </div>
 
