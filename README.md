@@ -86,6 +86,16 @@ My formatting is only semi-automated:
  <li>zip the result and send it to PG
 </ul>
 
+### Manual edits
+<ul>
+ <li>THE END text; classes: mt3, center
+ <li>the name of the novel, at the start of chapter 1; classes: center, p180
+ <li>poetry: copy-paste divs with classes;careful with quotes; careful with no-indent on the following para
+ <li>correspondence; careful with quotes; careful with no-indent on the following para; classes: mb0, center; mt0, center-right4, smcap
+ <li>placement of illustrations: put near the corresponding text
+</ul>
+
+
 ### Poetry/Correspondence
 
 These are special places where I need to format the text manually.
