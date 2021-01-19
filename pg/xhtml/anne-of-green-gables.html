@@ -69,7 +69,8 @@
 
       @page {margin: 2em 1%;}
 
-      @media all and (max-width: 450px) {  //note that 'handheld' is now deprecated
+      /* NOTE: 'handheld' is now deprecated by the validator  */
+      @media all and (max-width: 450px) {  
         body {margin: .5em; padding: 0; width: 98%;}
         .hidehand {display: none;}
         p {margin-top: .1em; text-align: justify; margin-bottom: .1em; text-indent: 1em;}
