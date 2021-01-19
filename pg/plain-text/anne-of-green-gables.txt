@@ -45,48 +45,50 @@
 
   CONTENTS
 
-  I.        Mrs. Rachel Lynde Is Surprised
-  II.       Matthew Cuthbert Is Surprised
-  III.      Marilla Cuthbert Is Surprised
-  IV.       Morning at Green Gables
-  V.        Anne’s History
-  VI.       Marilla Makes Up Her Mind
-  VII.      Anne Says Her Prayers
-  VIII.     Anne’s Bringing up Is Begun
-  IX.       Mrs. Rachel Lynde Is Properly Horrified
-  X.        Anne’s Apology
-  XI.       Anne’s Impressions of Sunday school
-  XII.      A Solemn Vow and Promise
-  XIII.     The Delights of Anticipation
-  XIV.      Anne’s Confession
-  XV.       A Tempest in the School Teapot
-  XVI.      Diana Is Invited to Tea with Tragic Results
-  XVII.     A New Interest in Life
-  XVIII.    Anne to the Rescue
-  XIX.      A Concert, a Catastrophe, and a Confession
-  XX.       A Good Imagination Gone Wrong
-  XXI.      A New Departure in Flavourings
-  XXII.     Anne Is Invited Out to Tea
-  XXIII.    Anne Comes to Grief in an Affair of Honour
-  XXIV.     Miss Stacy and Her Pupils Get Up a Concert
-  XXV.      Matthew Insists on Puffed Sleeves
-  XXVI.     The Story Club Is Formed
-  XXVII.    Vanity and Vexation of Spirit
-  XXVIII.   An Unfortunate Lily Maid
-  XXIX.     An Epoch in Anne’s Life
-  XXX.      The Queen’s Class Is Organized
-  XXXI.     Where the Brook and River Meet
-  XXXII.    The Pass List Is Out
-  XXXIII.   The Hotel Concert
-  XXXIV.    A Queen’s Girl
-  XXXV.     The Winter at Queen’s
-  XXXVI.    The Glory and the Dream
-  XXXVII.   The Reaper Whose Name Is Death
-  XXXVIII.  The Bend in the Road
+         I. Mrs. Rachel Lynde Is Surprised
+        II. Matthew Cuthbert Is Surprised
+       III. Marilla Cuthbert Is Surprised
+        IV. Morning at Green Gables
+         V. Anne’s History
+        VI. Marilla Makes Up Her Mind
+       VII. Anne Says Her Prayers
+      VIII. Anne’s Bringing-up Is Begun
+        IX. Mrs. Rachel Lynde Is Properly Horrified
+         X. Anne’s Apology
+        XI. Anne’s Impressions of Sunday-school
+       XII. A Solemn Vow and Promise
+      XIII. The Delights of Anticipation
+       XIV. Anne’s Confession
+        XV. A Tempest in the School Teapot
+       XVI. Diana Is Invited to Tea with Tragic Results
+      XVII. A New Interest in Life
+     XVIII. Anne to the Rescue
+       XIX. A Concert, a Catastrophe, and a Confession
+        XX. A Good Imagination Gone Wrong
+       XXI. A New Departure in Flavourings
+      XXII. Anne Is Invited Out to Tea
+     XXIII. Anne Comes to Grief in an Affair of Honour
+      XXIV. Miss Stacy and Her Pupils Get Up a Concert
+       XXV. Matthew Insists on Puffed Sleeves
+      XXVI. The Story Club Is Formed
+     XXVII. Vanity and Vexation of Spirit
+    XXVIII. An Unfortunate Lily Maid
+      XXIX. An Epoch in Anne’s Life
+       XXX. The Queen’s Class Is Organized
+      XXXI. Where the Brook and River Meet
+     XXXII. The Pass List Is Out
+    XXXIII. The Hotel Concert
+     XXXIV. A Queen’s Girl
+      XXXV. The Winter at Queen’s
+     XXXVI. The Glory and the Dream
+    XXXVII. The Reaper Whose Name Is Death
+   XXXVIII. The Bend in the Road
 
 
 
 
+ANNE OF GREEN GABLES
+   
 CHAPTER I.
 
 MRS. RACHEL LYNDE IS SURPRISED
@@ -875,6 +877,7 @@ CHAPTER III.
 
 MARILLA CUTHBERT IS SURPRISED
 
+[Illustration: “‘Matthew Cuthbert, who’s that?’ she ejaculated.”]
 
 Marilla came briskly forward as Matthew opened the door. But when her
 eyes fell on the odd little figure in the stiff, ugly dress, with the
@@ -1145,6 +1148,9 @@ rising and putting his pipe away. “I’m going to bed.”
 To bed went Matthew. And to bed, when she had put her dishes away, went
 Marilla, frowning most resolutely. And up-stairs, in the east gable, a
 lonely, heart-hungry, friendless child cried herself to sleep.
+
+
+
 
 
 
@@ -1921,8 +1927,9 @@ Thee for. As for the things I want, they’re so numerous that it would
 take a great deal of time to name them all, so I will only mention the
 two most important. Please let me stay at Green Gables; and please let
 me be good-looking when I grow up. I remain, 
+
                                 “Yours respectfully, 
-                                    “ANNE SHIRLEY.
+                                    “Anne Shirley.
 
 “There, did I do it all right?” she asked eagerly, getting up. “I could
 have made it much more flowery if I’d had a little more time to think
@@ -1964,7 +1971,7 @@ has come at last and I suppose I’ll just have to make the best of it.”
 
 CHAPTER VIII.
 
-ANNE’S BRINGING UP IS BEGUN
+ANNE’S BRINGING-UP IS BEGUN
 
 
 For reasons best known to herself, Marilla did not tell Anne that she
@@ -2395,6 +2402,8 @@ assertion of hatred. “How dare you call me skinny and ugly? How dare
 you say I’m freckled and red-headed? You are a rude, impolite,
 unfeeling woman!”
 
+[Illustration: “‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”]
+
 “Anne!” exclaimed Marilla in consternation.
 
 But Anne continued to face Mrs. Rachel undauntedly, head up, eyes
@@ -2560,6 +2569,9 @@ descended to the kitchen, grievously troubled in mind and vexed in
 soul. She was as angry with herself as with Anne, because, whenever she
 recalled Mrs. Rachel’s dumfounded countenance her lips twitched with
 amusement and she felt a most reprehensible desire to laugh.
+
+
+
 
 
 
@@ -2852,7 +2864,7 @@ talk any more just now, Marilla.”
 
 CHAPTER XI.
 
-ANNE’S IMPRESSIONS OF SUNDAY SCHOOL
+ANNE’S IMPRESSIONS OF SUNDAY-SCHOOL
 
 
 “Well, how do you like them?” said Marilla.
@@ -2954,6 +2966,8 @@ quarterlies. Nobody made any friendly advances, then or later on when
 the opening exercises were over and Anne found herself in Miss
 Rogerson’s class.
 
+[Illustration: “They looked at her and whispered to each other.”]
+
 Miss Rogerson was a middle-aged lady who had taught a Sunday-school
 class for twenty years. Her method of teaching was to ask the printed
 questions from the quarterly and look sternly over its edge at the
@@ -3024,10 +3038,10 @@ said it wouldn’t do and she told me to learn the nineteenth paraphrase
 for next Sunday. I read it over in church afterwards and it’s splendid.
 There are two lines in particular that just thrill me.
 
-    “‘Quick as the slaughtered squadrons fell
+    “‘Quick as the slaughtered squadrons fell 
     In Midian’s evil day.’
 
-I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it
+“I don’t know what ‘squadrons’ means nor ‘Midian,’ either, but it
 sounds _so_ tragical. I can hardly wait until next Sunday to recite it.
 I’ll practise it all the week. After Sunday-school I asked Miss
 Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat
@@ -3047,6 +3061,10 @@ heart for years, but had never given expression to. It almost seemed to
 her that those secret, unuttered, critical thoughts had suddenly taken
 visible and accusing shape and form in the person of this outspoken
 morsel of neglected humanity.
+
+
+
+
 
 
 
@@ -4081,6 +4099,8 @@ tears.
 And then—Thwack! Anne had brought her slate down on Gilbert’s head and
 cracked it—slate, not head—clear across.
 
+[Illustration: “Thwack! Anne had brought her slate down on Gilbert’s head.”]
+
 Avonlea school always enjoyed a scene. This was an especially enjoyable
 one. Everybody said, “Oh” in horrified delight. Diana gasped. Ruby
 Gillis, who was inclined to be hysterical, began to cry. Tommy Sloane
@@ -4389,6 +4409,10 @@ halted in amazement. When had he heard Marilla laugh like that before?
 “Well, Anne Shirley,” said Marilla as soon as she could speak, “if you
 must borrow trouble, for pity’s sake borrow it handier home. I should
 think you had an imagination, sure enough.”
+
+
+
+
 
 
 
@@ -4929,8 +4953,8 @@ following effusion:
     “TO ANNE
 
     “When twilight drops her curtain down 
-    And pins it with a star 
-    Remember that you have a friend 
+    And pins it with a star
+    Remember that you have a friend
     Though she may wander far.”
 
 “It’s so nice to be appreciated,” sighed Anne rapturously to Marilla
@@ -4991,12 +5015,11 @@ imagination—but after having been Diana’s busum friend I cannot be
 Minnie’s. Please excuse mistakes because my spelling isn’t very good
 yet, although much improoved.
 
-                                “Yours until death us do part,
-                                  “Anne or Cordelia Shirley. 
+                                “Yours until death us do part, 
+                                    “Anne or Cordelia Shirley. 
                                     
 “P. S. I shall sleep with your letter under my pillow to-night. 
-
-                                “A. or C. S.”
+                                    “A. or C. S.”
 
 Marilla pessimistically expected more trouble since Anne had again
 begun to go to school. But none developed. Perhaps Anne caught
@@ -6704,6 +6727,8 @@ roof and crashing off it through the tangle of Virginia creeper
 beneath—all before the dismayed circle below could give a simultaneous,
 terrified shriek.
 
+[Illustration: “Balanced herself uprightly on that precarious footing.”]
+
 If Anne had tumbled off the roof on the side up which she ascended
 Diana would probably have fallen heir to the pearl bead ring then and
 there. Fortunately she fell on the other side, where the roof extended
@@ -6862,6 +6887,9 @@ that Miss Stacy is a kindred spirit.”
 
 “There’s one thing plain to be seen, Anne,” said Marilla, “and that is
 that your fall off the Barry roof hasn’t injured your tongue at all.”
+
+
+
 
 
 
@@ -8106,6 +8134,8 @@ furious, in the stern with her arms full of dripping shawl and wet
 crêpe. It was certainly extremely difficult to be dignified under the
 circumstances!
 
+[Illustration: “He pulled close to the pile and extended his hand.”]
+
 “What has happened, Anne?” asked Gilbert, taking up his oars.
 
 “We were playing Elaine,” explained Anne frigidly, without even looking
@@ -8221,6 +8251,9 @@ Anne, keep a little of it.”
 
 
 
+
+
+
 CHAPTER XXIX.
 
 AN EPOCH IN ANNE’S LIFE
@@ -8241,7 +8274,7 @@ part of their English course the preceding winter and which Miss Stacy
 had made them learn off by heart—and exulting in its rushing lines and
 the clash of spears in its imagery. When she came to the lines:
 
-    “The stubborn spearsmen still made good 
+    “The stubborn spearsmen still made good
     Their dark impenetrable wood,”
 
 she stopped in ecstasy to shut her eyes that she might the better fancy
@@ -9298,6 +9331,7 @@ fail in geometry or not. That is true but not especially comforting. I
 think I’d rather it _didn’t_ go on if I failed!
 
                                 “Yours devotedly,
+
                                     “Anne.”
 
 The geometry examination and all the others were over in due time and
@@ -9554,6 +9588,8 @@ it’s your figure. I am just a dumpling. I’ve always been afraid of it,
 and now I know it is so. Well, I suppose I shall just have to resign
 myself to it.”
 
+[Illustration: “‘There’s something so stylish about you, Anne,’ said Diana.”]
+
 “But you have such dimples,” said Anne, smiling affectionately into the
 pretty, vivacious face so near her own. “Lovely dimples, like little
 dents in cream. I have given up all hope of dimples. My dimple-dream
@@ -9795,6 +9831,9 @@ by diamonds all my life,” declared Anne. “I’m quite content to be Anne
 of Green Gables, with my string of pearl beads. I know Matthew gave me
 as much love with them as ever went with Madame the Pink Lady’s
 jewels.”
+
+
+
 
 
 
@@ -10045,7 +10084,7 @@ make life so interesting.”
 
 
 
-CHAPTER XXXV
+CHAPTER XXXV.
 
 THE WINTER AT QUEEN’S
 
@@ -10960,6 +10999,8 @@ enough. I know we can help each other in many ways. You are going to
 keep up your studies, aren’t you? So am I. Come, I’m going to walk home
 with you.”
 
+[Illustration: “‘Come, I’m going to walk home with you.’”]
+
 Marilla looked curiously at Anne when the latter entered the kitchen.
 
 “Who was that came up the lane with you, Anne?”
@@ -10991,7 +11032,11 @@ her ideal world of dreams. And there was always the bend in the road!
 “‘God’s in his heaven, all’s right with the world,’” whispered Anne
 softly.
 
-The End.
+
+THE END.
+
+
+
 
 
 

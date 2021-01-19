@@ -1,8 +1,8 @@
-03:III.:“‘Matthew Cuthbert, who’s that?’ she ejaculated.”
-09:IX.:“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”
-11:XI.:“They looked at her and whispered to each other.”
-15:XV.:“Thwack! Anne had brought her slate down on Gilbert’s head.”
-23:XXIII.:“Balanced herself uprightly on that precarious footing.”
-28:XXVIII.:“He pulled close to the pile and extended his hand.”
-33:XXXIII.:“‘There’s something so stylish about you, Anne,’ said Diana.”
-38:XXXVIII.:“‘Come, I’m going to walk home with you.’”
+03|III.|“‘Matthew Cuthbert, who’s that?’ she ejaculated.”|533x769
+09|IX.|“‘I hate you,’ she cried in a choked voice, stamping her foot on the floor.”|543x775
+11|XI.|“They looked at her and whispered to each other.”|542x772
+15|XV.|“Thwack! Anne had brought her slate down on Gilbert’s head.”|533x762
+23|XXIII.|“Balanced herself uprightly on that precarious footing.”|527x751
+28|XXVIII.|“He pulled close to the pile and extended his hand.”|535x755
+33|XXXIII.|“‘There’s something so stylish about you, Anne,’ said Diana.”|1075x1531
+38|XXXVIII.|“‘Come, I’m going to walk home with you.’”|535x827

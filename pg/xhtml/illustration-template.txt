@@ -1,8 +1,8 @@
 <div class="hidehand">
  <a name="illustration-chap-${roman-numeral}" id="illustration-chap-${roman-numeral}"></a>
  <div class="figcenter" style="width:50%;">
-   <img src="images/chap${numeral}.jpg" style="width:100%;" alt="${caption}" />
-   <!-- <div class="caption">${caption}</div> the caption is already in the image itself -->
+   <img src="images/chap${numeral}.jpg" width="${width}" height="${height}" alt="${caption}" />
+   <div class="caption smcap">${caption}</div> 
  </div>
 </div>
 

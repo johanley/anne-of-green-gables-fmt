@@ -14,11 +14,10 @@
       h2 {font-size: 1.4em; line-height: 2em;}
       h2 span {font-size: .8em; font-variant: small-caps;}
       p {margin-top: 1em; text-align: justify; margin-bottom: 1em; text-indent: 1em;}
-      blockquote {margin: 1.5em 3em;}
       .p120 {font-size: 1.2em;}
       .p180 {font-size: 1.8em;}
       .p70 {font-size: 0.7em;}
-      cite, em {font-style: italic;}
+      em {font-style: italic;}
 
       /* General */
       .noi {text-indent: 0;}
@@ -27,15 +26,8 @@
       .mt0 {margin-top: 0em;}
       .mb0 {margin-bottom: 0em;}
       .mt3 {margin-top: 3em;}
-      .center-right4 {text-align: center; padding-left: 4em;}
-      .center-right2 {text-align: center; padding-left: 2em;}
-      .center-right8 {text-align: center; padding-left: 8em;}
+      .center-right4 {text-align: center; padding-left: 4em;}      
       .right2 {text-align: right; padding-right: 2em;}
-
-      /* Drop caps */
-      .dropcap, .dropcap2 {float: left; font-weight: normal;}
-      .dropcap {font-size: 3.5em; padding: 0 .02em 0 0; line-height: 0.85em; height: 0.85em;}
-      .dropcap2 {font-size: .3em; padding: 0 .2em 0 0; line-height: 1em; height: 1em;}
 
       /* Table */
       table {margin: auto; border-collapse: collapse;}
@@ -43,21 +35,12 @@
       td {padding: .2em;}
       .tdl {text-align: left; margin-left: 1em; padding-left: 2em; text-indent: -1em;}
       .tdr {text-align: right; padding-right: 1em;}
-      .tdr2 {text-align: right; padding-left: 1em;}
 
       /* Horizontal rules */
       hr {width: 60%; margin: 2em 20%; clear: both;}
       hr.divider {width: 65%; margin: 4em 17.5%;}
       hr.divider2 {width: 45%; margin: 4em 27.5%;}
       hr.tb {width: 20%; margin: 0 40% 0 40%;}
-
-      /* Page numbers */
-      .pagenum {position: absolute; right: 2%; text-indent: 0em;
-        text-align: right; font-size: x-small;
-        font-weight: normal; font-variant: normal; font-style: normal;
-        letter-spacing: normal; line-height: normal;
-        color: #999; border-top: 1px solid; border-bottom: 1px solid;
-        background-color: inherit; padding: .01em .4em;}
 
       /* Images */
       img {max-width: 100%; width: 100%; height: auto;}
@@ -76,7 +59,6 @@
       /* Notes */
       .tn {max-width: 30em; margin: 2em auto; padding: .5em 1em;}
       .background {background: #e3e4e4;}
-      ins {text-decoration: none; border-bottom: 1px dotted #dcdcdc;}
       li {margin-bottom: .5em; list-style: square;}
 
       @media print {
@@ -87,7 +69,7 @@
 
       @page {margin: 2em 1%;}
 
-      @media all and (max-width: 450px) {      
+      @media all and (max-width: 450px) {  //note that 'handheld' is now deprecated    
         body {margin: .5em; padding: 0; width: 98%;}
         .hidehand {display: none;}
         p {margin-top: .1em; text-align: justify; margin-bottom: .1em; text-indent: 1em;}
@@ -96,8 +78,6 @@
         table {width: 96%; margin: 0 2%;}
         .tn {width: 80%; margin: 0 10%; background: #e3e4e4;}
         a {color: inherit; text-decoration: none;}
-        .dropcap, .dropcap2 {float: none; font-weight: normal;
-          font-size: 1em; padding: inherit; line-height: 1em; height: 1em;}
       }   
    </style>
   </head>
@@ -109,7 +89,7 @@
 <div class="hidehand">
  <hr class="divider2" />
  <div class="figcenter" style="width:50%;">
-   <img src="images/cover.jpg" style="width:100%;" alt="cover" />
+   <img src="images/cover.jpg" width="1019" height="1429" alt="cover" />
  </div>
 </div>
 
@@ -163,7 +143,7 @@ Boston, U.S.A.</span></em></p>
 <div class="section">
  <hr class="divider" />
  <p class="center">TO THE MEMORY OF</p>
- <p class="center p120">My Father and Mother</p>
+ <p class="center p120">MY FATHER AND MOTHER</p>
 </div>
 
 
