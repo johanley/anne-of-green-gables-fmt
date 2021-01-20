@@ -81,8 +81,7 @@ My formatting is only semi-automated:
 <ul>
  <li>create a template file to hold the title page, transcriber notes and so on, entered manually
  <li>run a script (Java, in Eclipse, against the correct branch) to inject the bulk of the text into the template file (with line wrap at 72)
- <li>apply <em>manual formatting for poetry and correspondence</em>
- <li>run final sanity checks (scripts) to see if I've added unwanted characters in my manual edits (just to be sure)
+ <li>apply <em>manual formatting for some items</em>
  <li>zip the result and send it to PG
 </ul>
 
@@ -90,7 +89,7 @@ My formatting is only semi-automated:
 <ul>
  <li>THE END text; classes: mt3, center
  <li>the name of the novel, at the start of chapter 1; classes: center, p180
- <li>poetry: copy-paste divs with classes;careful with quotes; careful with no-indent on the following para
+ <li>poetry: copy-paste divs with classes; careful with quotes; careful with no-indent on the following para
  <li>correspondence; careful with quotes; careful with no-indent on the following para; classes: mb0, center; mt0, center-right4, smcap
  <li>placement of illustrations: put near the corresponding text
 </ul>
@@ -159,6 +158,7 @@ that are handled manually, by editing the generated output.
  <li>XHTML 1.0 Strict or 1.1 (epub uses XHTML)
  <li>modern <a href='https://www.gutenberg.org/files/2814/2814-h/2814-h.htm'>example</a>
  <li>CSS 2.1 or below; CSS 3 can also be used if needed; CSS appears to be embedded, not in a separate .css file
+ <li><em>handheld</em> is used in the CSS media query; that setting is OK in CSS 2.1, deprecated in CSS 3.
  <li>use W3C validators for markup and CSS; use HTML Tidy; remove unused styles
  <li>use PG's ebookmaker converter to convert your book and review the result carefully (checks epub/mobi formats)
  <li>image file formats: .jpg (.png for vector drawings)
@@ -168,7 +168,7 @@ that are handled manually, by editing the generated output.
  <li>chapter: H2
  <li>images are placed in a conventional <em>images</em> directory beside the html
  <li>cover image: no larger than 256K, width-height from 650x1000 to 5000x5000. Name is cover.jpg.
- <li>inline image: no larger than 256K, up to 5000x5000
+ <li>inline image: no larger than 256K, up to 5000x5000; state the width-height explicitly for all images.
  <li>example of title-tag: <em>The Project Gutenberg eBook of Alice's Adventures in Wonderland, by Lewis Carroll</em>
  <li>metadata or comments about the text can be placed in the header, or in HTML comments
  <li>page numbers optional, not mandatory; some people put them in comments

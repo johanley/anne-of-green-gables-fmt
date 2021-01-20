@@ -44,7 +44,7 @@
 
       /* Images */
       img {max-width: 100%; width: 100%; height: auto;}
-      .figcenter {clear: both; margin: 2em auto; text-align: center; max-width: 100%;}
+      .figcenter {clear: both; margin: 2em auto; text-align: center; max-width: 50%;}
       .width400 {width: 400px;}
       .width150 {width: 150px;}
       .caption {text-align: center;}
@@ -75,6 +75,7 @@
         p {margin-top: .1em; text-align: justify; margin-bottom: .1em; text-indent: 1em;}
         hr.divider, hr.divider2 {border-width: 0; margin: 0;}
         img {max-width: 100%; width: auto; height: auto;}
+        .figcenter {max-width: 100%;}
         table {width: 96%; margin: 0 2%;}
         .tn {width: 80%; margin: 0 10%; background: #e3e4e4;}
         a {color: inherit; text-decoration: none;}
@@ -88,7 +89,7 @@
 
 <div class="hidehand">
  <hr class="divider2" />
- <div class="figcenter" style="width:50%;">
+ <div class="figcenter" >
    <img src="images/cover.jpg" width="1019" height="1429" alt="cover" />
  </div>
 </div>
