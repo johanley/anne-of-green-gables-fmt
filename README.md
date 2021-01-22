@@ -3,6 +3,8 @@
 Formatted versions of my <a href='https://johanley.github.io/anne-of-green-gables/index.html'>transcription of _Anne of Green Gables_</a>.
 
 This repo was created mainly for producing items for Project Gutenberg.
+The PG ebook was <a href='https://www.gutenberg.org/ebooks/64365'>deployed on 2021-01-22</a>.
+Jacqueline Jeremy of Distributed Proofreaders assisted me with creating the PG ebook.
 
 The PG (HTML) version of the transcription is <a href='https://johanley.github.io/anne-of-green-gables-fmt/anne-of-green-gables.html'>here</a>.
 
